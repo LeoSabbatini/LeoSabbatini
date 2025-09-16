@@ -6,14 +6,14 @@ Sou apaixonado por tecnologia desde muito jovem, fascinado pela capacidade de tr
 
 <a href="https://github.com/LeoSabbatini?tab=repositories&sort=stargazers">
    <img 
-       alt="Total de estrelas" 
+       alt="Stars" 
        title="Total de estrelas GitHub" 
        src="https://custom-icon-badges.demolab.com/github/stars/LeoSabbatini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
    />
 </a>
 <a href="https://github.com/LeoSabbatini?tab=followers">
    <img 
-       alt="Seguidores" 
+       alt="Follow Me" 
        title="Me siga no GitHub" 
        src="https://custom-icon-badges.demolab.com/github/followers/LeoSabbatini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow Me&logoColor=white"
    />
